@@ -1,0 +1,4 @@
+ipython[all]
+numpy
+matplotlib
+imdbpy
