@@ -1,4 +1,5 @@
-ipython[all]
+jupyter
 numpy
 matplotlib
 imdbpy
+tqdm

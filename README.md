@@ -9,7 +9,7 @@ Clone (preferably into a virtualenv):
 
 Install dependencies:
 
-    $ pip install -r requirements
+    $ pip install -r requirements.txt
 
 Load notebook:
 
