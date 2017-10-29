@@ -1,5 +1,5 @@
 jupyter
 numpy
 matplotlib
-imdbpy
+git+git://github.com/alberanid/imdbpy
 tqdm
